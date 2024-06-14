@@ -15,10 +15,10 @@ There are two ways to use this library:
    1. Add the following line to your `go.mod` file:
 
       ```
-      replace github.com/your-username/splitter v0.0.1 => ./splitter
+      replace github.com/jempe/text_splitter/splitter v0.0.1 => ./splitter
       ```
 
-      Replace `github.com/your-username/splitter` with the actual import path for your library and `v0.0.1` with the desired version number (if applicable).
+      Replace `github.com/jempe/text_splitter/splitter` with the actual import path for your library and `v0.0.1` with the desired version number (if applicable).
 
    2. Import the package in your Go code:
 
